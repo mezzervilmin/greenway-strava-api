@@ -1,0 +1,2651 @@
+{ "segments": [
+    {
+        "id": 1433400,
+        "resource_state": 2,
+        "name": "American Tobacco Trail Climb",
+        "activity_type": "Run",
+        "distance": 650.276,
+        "average_grade": -0.3,
+        "maximum_grade": 6.3,
+        "elevation_high": 93.8,
+        "elevation_low": 84.1,
+        "start_latlng": [
+            35.8478308,
+            -78.9257217
+        ],
+        "end_latlng": [
+            35.8420115,
+            -78.9263511
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 234,
+        "athlete_pr_effort": {
+            "id": 3273002524936162116,
+            "activity_id": 12478620815,
+            "elapsed_time": 234,
+            "distance": 650.276,
+            "start_date": "2024-09-22T17:33:37Z",
+            "start_date_local": "2024-09-22T13:33:37Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:10Z"
+    },
+    {
+        "id": 1433401,
+        "resource_state": 2,
+        "name": "American Tobacco Trail Climb",
+        "activity_type": "Run",
+        "distance": 442.288,
+        "average_grade": 0.9,
+        "maximum_grade": 9.4,
+        "elevation_high": 89.8,
+        "elevation_low": 84.0,
+        "start_latlng": [
+            35.8356025,
+            -78.9281045
+        ],
+        "end_latlng": [
+            35.8394386,
+            -78.9269173
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:37:16Z"
+    },
+    {
+        "id": 2148309,
+        "resource_state": 2,
+        "name": "American Tobacco Trail Climb",
+        "activity_type": "Run",
+        "distance": 1859.43,
+        "average_grade": 3.1,
+        "maximum_grade": 107.5,
+        "elevation_high": 67.8,
+        "elevation_low": 10.6,
+        "start_latlng": [
+            35.7578734,
+            -78.9204134
+        ],
+        "end_latlng": [
+            35.7434334,
+            -78.9284643
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:38:16Z"
+    },
+    {
+        "id": 2979001,
+        "resource_state": 2,
+        "name": "End run",
+        "activity_type": "Run",
+        "distance": 2695.12,
+        "average_grade": -0.3,
+        "maximum_grade": 10.0,
+        "elevation_high": 114.1,
+        "elevation_low": 98.8,
+        "start_latlng": [
+            35.7859816,
+            -78.92195584
+        ],
+        "end_latlng": [
+            35.80545925,
+            -78.92928854
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Cary",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:37:44Z"
+    },
+    {
+        "id": 2989313,
+        "resource_state": 2,
+        "name": "1.5 mi out on ATT",
+        "activity_type": "Run",
+        "distance": 2415.08,
+        "average_grade": -0.0,
+        "maximum_grade": 12.9,
+        "elevation_high": 110.3,
+        "elevation_low": 92.2,
+        "start_latlng": [
+            35.9904796,
+            -78.9063319
+        ],
+        "end_latlng": [
+            35.9697984,
+            -78.9061652
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 818,
+        "athlete_pr_effort": {
+            "id": 3273002524936039236,
+            "activity_id": 12478620815,
+            "elapsed_time": 818,
+            "distance": 2415.08,
+            "start_date": "2024-09-22T15:18:30Z",
+            "start_date_local": "2024-09-22T11:18:30Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:32:24Z"
+    },
+    {
+        "id": 3204669,
+        "resource_state": 2,
+        "name": "Ellerbee Creek Trail: Club to Trinity",
+        "activity_type": "Run",
+        "distance": 1481.55,
+        "average_grade": 0.1,
+        "maximum_grade": 9.3,
+        "elevation_high": 100.7,
+        "elevation_low": 93.0,
+        "start_latlng": [
+            36.0169482,
+            -78.9000672
+        ],
+        "end_latlng": [
+            36.005654,
+            -78.9032628
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 432,
+        "athlete_pr_effort": {
+            "id": 3307429714256965368,
+            "activity_id": 13195623757,
+            "elapsed_time": 432,
+            "distance": 1481.55,
+            "start_date": "2024-12-26T17:56:46Z",
+            "start_date_local": "2024-12-26T12:56:46Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:22:31Z"
+    },
+    {
+        "id": 3509221,
+        "resource_state": 2,
+        "name": "ATT South (Scott King to Northeast Creek)",
+        "activity_type": "Run",
+        "distance": 1634.25,
+        "average_grade": -1.5,
+        "maximum_grade": 1.2,
+        "elevation_high": 93.7,
+        "elevation_low": 69.5,
+        "start_latlng": [
+            35.8749705,
+            -78.9338962
+        ],
+        "end_latlng": [
+            35.8615644,
+            -78.928048
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": true,
+        "starred": true,
+        "pr_time": 549,
+        "athlete_pr_effort": {
+            "id": 3273002524937268036,
+            "activity_id": 12478620815,
+            "elapsed_time": 549,
+            "distance": 1634.25,
+            "start_date": "2024-09-22T17:14:08Z",
+            "start_date_local": "2024-09-22T13:14:08Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:19Z"
+    },
+    {
+        "id": 3596753,
+        "resource_state": 2,
+        "name": "Massey Chapel Rd 6 Mile",
+        "activity_type": "Run",
+        "distance": 4736.18,
+        "average_grade": -0.0,
+        "maximum_grade": 24.9,
+        "elevation_high": 98.8,
+        "elevation_low": 72.1,
+        "start_latlng": [
+            35.894517183333335,
+            -78.95347843333333
+        ],
+        "end_latlng": [
+            35.864858383333335,
+            -78.9300138
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1674,
+        "athlete_pr_effort": {
+            "id": 3273002524938962756,
+            "activity_id": 12478620815,
+            "elapsed_time": 1674,
+            "distance": 4736.18,
+            "start_date": "2024-09-22T16:53:03Z",
+            "start_date_local": "2024-09-22T12:53:03Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:47Z"
+    },
+    {
+        "id": 4376372,
+        "resource_state": 2,
+        "name": "ATT South - new paved section",
+        "activity_type": "Run",
+        "distance": 944.8,
+        "average_grade": -0.4,
+        "maximum_grade": 5.4,
+        "elevation_high": 82.4,
+        "elevation_low": 74.8,
+        "start_latlng": [
+            35.903191,
+            -78.950197
+        ],
+        "end_latlng": [
+            35.895263,
+            -78.951893
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": true,
+        "starred": true,
+        "pr_time": 316,
+        "athlete_pr_effort": {
+            "id": 3273002524938229572,
+            "activity_id": 12478620815,
+            "elapsed_time": 316,
+            "distance": 944.8,
+            "start_date": "2024-09-22T16:46:37Z",
+            "start_date_local": "2024-09-22T12:46:37Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:15Z"
+    },
+    {
+        "id": 4523685,
+        "resource_state": 2,
+        "name": "Outbound 1/4mi Interval Segment on ATT",
+        "activity_type": "Run",
+        "distance": 202.9,
+        "average_grade": 0.3,
+        "maximum_grade": 3.7,
+        "elevation_high": 81.6,
+        "elevation_low": 80.8,
+        "start_latlng": [
+            35.976585,
+            -78.908724
+        ],
+        "end_latlng": [
+            35.974764,
+            -78.908602
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 65,
+        "athlete_pr_effort": {
+            "id": 3273002524938700612,
+            "activity_id": 12478620815,
+            "elapsed_time": 65,
+            "distance": 202.9,
+            "start_date": "2024-09-22T15:27:37Z",
+            "start_date_local": "2024-09-22T11:27:37Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:06Z"
+    },
+    {
+        "id": 4735915,
+        "resource_state": 2,
+        "name": "Pkwy to River",
+        "activity_type": "Run",
+        "distance": 430.8,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 99.0,
+        "elevation_low": 99.0,
+        "start_latlng": [
+            35.903183,
+            -78.950258
+        ],
+        "end_latlng": [
+            35.899488,
+            -78.950079
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 146,
+        "athlete_pr_effort": {
+            "id": 3273002524938702660,
+            "activity_id": 12478620815,
+            "elapsed_time": 146,
+            "distance": 430.8,
+            "start_date": "2024-09-22T16:46:33Z",
+            "start_date_local": "2024-09-22T12:46:33Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:39Z"
+    },
+    {
+        "id": 5420573,
+        "resource_state": 2,
+        "name": "ATT south 5km from Massey Chapel",
+        "activity_type": "Run",
+        "distance": 5006.9,
+        "average_grade": 0.0,
+        "maximum_grade": 14.3,
+        "elevation_high": 95.6,
+        "elevation_low": 69.3,
+        "start_latlng": [
+            35.894436,
+            -78.953261
+        ],
+        "end_latlng": [
+            35.858057,
+            -78.92619
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1955,
+        "athlete_pr_effort": {
+            "id": 3273002524935731012,
+            "activity_id": 12478620815,
+            "elapsed_time": 1955,
+            "distance": 5006.9,
+            "start_date": "2024-09-22T16:53:07Z",
+            "start_date_local": "2024-09-22T12:53:07Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:17Z"
+    },
+    {
+        "id": 5626272,
+        "resource_state": 2,
+        "name": "1 Mile Sprint",
+        "activity_type": "Run",
+        "distance": 1642.3,
+        "average_grade": -1.0,
+        "maximum_grade": 19.0,
+        "elevation_high": 96.1,
+        "elevation_low": 69.7,
+        "start_latlng": [
+            35.817362,
+            -78.928012
+        ],
+        "end_latlng": [
+            35.831671,
+            -78.92905
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:37:29Z"
+    },
+    {
+        "id": 6242184,
+        "resource_state": 2,
+        "name": "American Tobacco Trail Climb",
+        "activity_type": "Run",
+        "distance": 1224.7,
+        "average_grade": 4.0,
+        "maximum_grade": 15.7,
+        "elevation_high": 153.6,
+        "elevation_low": 105.2,
+        "start_latlng": [
+            35.719422,
+            -78.936947
+        ],
+        "end_latlng": [
+            35.729162,
+            -78.931135
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:38:28Z"
+    },
+    {
+        "id": 6242185,
+        "resource_state": 2,
+        "name": "American Tobacco Trail Climb",
+        "activity_type": "Run",
+        "distance": 761.0,
+        "average_grade": 5.3,
+        "maximum_grade": 14.4,
+        "elevation_high": 187.8,
+        "elevation_low": 147.2,
+        "start_latlng": [
+            35.732059,
+            -78.929821
+        ],
+        "end_latlng": [
+            35.738735,
+            -78.928927
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:38:09Z"
+    },
+    {
+        "id": 6517541,
+        "resource_state": 2,
+        "name": "NEW BRIDGE SEGMENT! (heading south)",
+        "activity_type": "Run",
+        "distance": 1307.9,
+        "average_grade": -1.3,
+        "maximum_grade": 12.8,
+        "elevation_high": 102.6,
+        "elevation_low": 78.9,
+        "start_latlng": [
+            35.90981,
+            -78.94172
+        ],
+        "end_latlng": [
+            35.90337,
+            -78.95046
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 446,
+        "athlete_pr_effort": {
+            "id": 3273002524938244932,
+            "activity_id": 12478620815,
+            "elapsed_time": 446,
+            "distance": 1307.9,
+            "start_date": "2024-09-22T16:38:54Z",
+            "start_date_local": "2024-09-22T12:38:54Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:36Z"
+    },
+    {
+        "id": 7067162,
+        "resource_state": 2,
+        "name": "ATT Scott King to O'Kelly Chapel",
+        "activity_type": "Run",
+        "distance": 3284.2,
+        "average_grade": -0.1,
+        "maximum_grade": 20.0,
+        "elevation_high": 93.7,
+        "elevation_low": 69.6,
+        "start_latlng": [
+            35.8751,
+            -78.933788
+        ],
+        "end_latlng": [
+            35.847239,
+            -78.925739
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": true,
+        "starred": true,
+        "pr_time": 1198,
+        "athlete_pr_effort": {
+            "id": 3273002524937212740,
+            "activity_id": 12478620815,
+            "elapsed_time": 1198,
+            "distance": 3284.2,
+            "start_date": "2024-09-22T17:14:00Z",
+            "start_date_local": "2024-09-22T13:14:00Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:18Z"
+    },
+    {
+        "id": 7952411,
+        "resource_state": 2,
+        "name": "Massey Chapel to Fayetteville",
+        "activity_type": "Run",
+        "distance": 1079.3,
+        "average_grade": 1.3,
+        "maximum_grade": 4.8,
+        "elevation_high": 90.6,
+        "elevation_low": 74.9,
+        "start_latlng": [
+            35.894475,
+            -78.953323
+        ],
+        "end_latlng": [
+            35.888939,
+            -78.943675
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 377,
+        "athlete_pr_effort": {
+            "id": 3273002524937420612,
+            "activity_id": 12478620815,
+            "elapsed_time": 377,
+            "distance": 1079.3,
+            "start_date": "2024-09-22T16:53:07Z",
+            "start_date_local": "2024-09-22T12:53:07Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:47Z"
+    },
+    {
+        "id": 7983887,
+        "resource_state": 2,
+        "name": "ATT- New Hope to Morrisville PKWY",
+        "activity_type": "Run",
+        "distance": 2668.7,
+        "average_grade": 0.6,
+        "maximum_grade": 5.5,
+        "elevation_high": 123.6,
+        "elevation_low": 103.0,
+        "start_latlng": [
+            35.816774,
+            -78.927906
+        ],
+        "end_latlng": [
+            35.794855,
+            -78.922529
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 970,
+        "athlete_pr_effort": {
+            "id": 3273002524937748292,
+            "activity_id": 12478620815,
+            "elapsed_time": 970,
+            "distance": 2668.7,
+            "start_date": "2024-09-22T17:59:50Z",
+            "start_date_local": "2024-09-22T13:59:50Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:18Z"
+    },
+    {
+        "id": 7984928,
+        "resource_state": 2,
+        "name": "Water fountain to White Oak",
+        "activity_type": "Run",
+        "distance": 1920.5,
+        "average_grade": 0.7,
+        "maximum_grade": 11.4,
+        "elevation_high": 96.1,
+        "elevation_low": 69.6,
+        "start_latlng": [
+            35.83409,
+            -78.928483
+        ],
+        "end_latlng": [
+            35.817071,
+            -78.928024
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "NC",
+        "country": "United States",
+        "private": false,
+        "hazardous": true,
+        "starred": true,
+        "pr_time": 864,
+        "athlete_pr_effort": {
+            "id": 3273002524936738628,
+            "activity_id": 12478620815,
+            "elapsed_time": 864,
+            "distance": 1920.5,
+            "start_date": "2024-09-22T17:45:13Z",
+            "start_date_local": "2024-09-22T13:45:13Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:24Z"
+    },
+    {
+        "id": 9913715,
+        "resource_state": 2,
+        "name": "ECT - Club to Knox",
+        "activity_type": "Run",
+        "distance": 505.7,
+        "average_grade": -0.6,
+        "maximum_grade": 1.8,
+        "elevation_high": 98.8,
+        "elevation_low": 93.2,
+        "start_latlng": [
+            36.017148,
+            -78.900214
+        ],
+        "end_latlng": [
+            36.012955,
+            -78.901879
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 142,
+        "athlete_pr_effort": {
+            "id": 3301262146729169246,
+            "activity_id": 13080221294,
+            "elapsed_time": 142,
+            "distance": 505.7,
+            "start_date": "2024-12-09T16:38:39Z",
+            "start_date_local": "2024-12-09T11:38:39Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:31:45Z"
+    },
+    {
+        "id": 10115449,
+        "resource_state": 2,
+        "name": "THAT ATT climb southbound to Scott King Rd!",
+        "activity_type": "Run",
+        "distance": 2481.0,
+        "average_grade": 0.6,
+        "maximum_grade": 10.5,
+        "elevation_high": 95.2,
+        "elevation_low": 76.3,
+        "start_latlng": [
+            35.891962,
+            -78.950075
+        ],
+        "end_latlng": [
+            35.875472,
+            -78.934043
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1092,
+        "athlete_pr_effort": {
+            "id": 3273002524936355652,
+            "activity_id": 12478620815,
+            "elapsed_time": 1092,
+            "distance": 2481.0,
+            "start_date": "2024-09-22T16:55:31Z",
+            "start_date_local": "2024-09-22T12:55:31Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:48Z"
+    },
+    {
+        "id": 10120889,
+        "resource_state": 2,
+        "name": "ATT - CR Trail to Split Rail Trail",
+        "activity_type": "Run",
+        "distance": 1298.2,
+        "average_grade": 0.6,
+        "maximum_grade": 43.4,
+        "elevation_high": 93.4,
+        "elevation_low": 80.9,
+        "start_latlng": [
+            35.890171,
+            -78.946362
+        ],
+        "end_latlng": [
+            35.882379,
+            -78.936286
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 449,
+        "athlete_pr_effort": {
+            "id": 3273002524938693444,
+            "activity_id": 12478620815,
+            "elapsed_time": 449,
+            "distance": 1298.2,
+            "start_date": "2024-09-22T16:57:49Z",
+            "start_date_local": "2024-09-22T12:57:49Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:50Z"
+    },
+    {
+        "id": 10120897,
+        "resource_state": 2,
+        "name": "ATT - Split Rail Trail to CR Trail",
+        "activity_type": "Run",
+        "distance": 1292.4,
+        "average_grade": -0.6,
+        "maximum_grade": 39.9,
+        "elevation_high": 93.3,
+        "elevation_low": 79.8,
+        "start_latlng": [
+            35.882508,
+            -78.936281
+        ],
+        "end_latlng": [
+            35.890236,
+            -78.94644
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:36:59Z"
+    },
+    {
+        "id": 10334772,
+        "resource_state": 2,
+        "name": "ATT Woodcroft to SPCrossing (Downhill!)",
+        "activity_type": "Run",
+        "distance": 1433.4,
+        "average_grade": -0.5,
+        "maximum_grade": 6.4,
+        "elevation_high": 107.9,
+        "elevation_low": 98.8,
+        "start_latlng": [
+            35.923659,
+            -78.928013
+        ],
+        "end_latlng": [
+            35.91295,
+            -78.934502
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 469,
+        "athlete_pr_effort": {
+            "id": 3273002524939497284,
+            "activity_id": 12478620815,
+            "elapsed_time": 469,
+            "distance": 1433.4,
+            "start_date": "2024-09-22T16:12:34Z",
+            "start_date_local": "2024-09-22T12:12:34Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:28Z"
+    },
+    {
+        "id": 10384353,
+        "resource_state": 2,
+        "name": "64 to ATT start",
+        "activity_type": "Run",
+        "distance": 3278.5,
+        "average_grade": -0.6,
+        "maximum_grade": 9.0,
+        "elevation_high": 96.0,
+        "elevation_low": 71.3,
+        "start_latlng": [
+            35.74273,
+            -78.929035
+        ],
+        "end_latlng": [
+            35.717393,
+            -78.940348
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:38:04Z"
+    },
+    {
+        "id": 11228637,
+        "resource_state": 2,
+        "name": "Southpoint to New Hope",
+        "activity_type": "Run",
+        "distance": 10757.5,
+        "average_grade": 0.1,
+        "maximum_grade": 12.7,
+        "elevation_high": 99.6,
+        "elevation_low": 70.0,
+        "start_latlng": [
+            35.903188,
+            -78.950391
+        ],
+        "end_latlng": [
+            35.817128,
+            -78.927954
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 4234,
+        "athlete_pr_effort": {
+            "id": 3273002524935801668,
+            "activity_id": 12478620815,
+            "elapsed_time": 4234,
+            "distance": 10757.5,
+            "start_date": "2024-09-22T16:46:33Z",
+            "start_date_local": "2024-09-22T12:46:33Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:41Z"
+    },
+    {
+        "id": 11528366,
+        "resource_state": 2,
+        "name": "ATT: Fayetteville to Riddle",
+        "activity_type": "Run",
+        "distance": 1705.2,
+        "average_grade": 1.1,
+        "maximum_grade": 21.1,
+        "elevation_high": 110.5,
+        "elevation_low": 84.8,
+        "start_latlng": [
+            35.963881,
+            -78.906953
+        ],
+        "end_latlng": [
+            35.950496,
+            -78.901651
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 587,
+        "athlete_pr_effort": {
+            "id": 3273002524937165636,
+            "activity_id": 12478620815,
+            "elapsed_time": 587,
+            "distance": 1705.2,
+            "start_date": "2024-09-22T15:36:10Z",
+            "start_date_local": "2024-09-22T11:36:10Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:16Z"
+    },
+    {
+        "id": 11528375,
+        "resource_state": 2,
+        "name": "ATT: Cornwallis to MLK",
+        "activity_type": "Run",
+        "distance": 908.8,
+        "average_grade": 0.4,
+        "maximum_grade": 2.8,
+        "elevation_high": 113.2,
+        "elevation_low": 109.0,
+        "start_latlng": [
+            35.947352,
+            -78.903031
+        ],
+        "end_latlng": [
+            35.939603,
+            -78.906219
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 308,
+        "athlete_pr_effort": {
+            "id": 3273002524937166660,
+            "activity_id": 12478620815,
+            "elapsed_time": 308,
+            "distance": 908.8,
+            "start_date": "2024-09-22T15:48:17Z",
+            "start_date_local": "2024-09-22T11:48:17Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:17Z"
+    },
+    {
+        "id": 12634476,
+        "resource_state": 2,
+        "name": "Fayettesville to SP",
+        "activity_type": "Run",
+        "distance": 3597.8,
+        "average_grade": -0.5,
+        "maximum_grade": 6.8,
+        "elevation_high": 117.2,
+        "elevation_low": 97.3,
+        "start_latlng": [
+            35.935568,
+            -78.90887
+        ],
+        "end_latlng": [
+            35.913507,
+            -78.934577
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1267,
+        "athlete_pr_effort": {
+            "id": 3267957944732205582,
+            "activity_id": 12361863243,
+            "elapsed_time": 1267,
+            "distance": 3597.8,
+            "start_date": "2024-09-08T18:00:50Z",
+            "start_date_local": "2024-09-08T14:00:50Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:20Z"
+    },
+    {
+        "id": 13524520,
+        "resource_state": 2,
+        "name": "Blindboy Fuller to hillside uphill",
+        "activity_type": "Run",
+        "distance": 1292.9,
+        "average_grade": 1.3,
+        "maximum_grade": 29.4,
+        "elevation_high": 108.1,
+        "elevation_low": 84.7,
+        "start_latlng": [
+            35.962455,
+            -78.905588
+        ],
+        "end_latlng": [
+            35.952227,
+            -78.900911
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 434,
+        "athlete_pr_effort": {
+            "id": 3273002524937951044,
+            "activity_id": 12478620815,
+            "elapsed_time": 434,
+            "distance": 1292.9,
+            "start_date": "2024-09-22T15:37:18Z",
+            "start_date_local": "2024-09-22T11:37:18Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:14Z"
+    },
+    {
+        "id": 13524534,
+        "resource_state": 2,
+        "name": "Blindboy Fuller downhill",
+        "activity_type": "Run",
+        "distance": 1247.0,
+        "average_grade": -1.5,
+        "maximum_grade": 11.8,
+        "elevation_high": 107.6,
+        "elevation_low": 88.5,
+        "start_latlng": [
+            35.952164,
+            -78.900963
+        ],
+        "end_latlng": [
+            35.96207,
+            -78.90515
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 432,
+        "athlete_pr_effort": {
+            "id": 3202024180629004922,
+            "activity_id": 10933236153,
+            "elapsed_time": 432,
+            "distance": 1247.0,
+            "start_date": "2024-03-10T20:38:00Z",
+            "start_date_local": "2024-03-10T16:38:00Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:39:16Z"
+    },
+    {
+        "id": 14256409,
+        "resource_state": 2,
+        "name": "Take off Tobacco Trail",
+        "activity_type": "Run",
+        "distance": 236.7,
+        "average_grade": -0.8,
+        "maximum_grade": 1.7,
+        "elevation_high": 78.6,
+        "elevation_low": 75.8,
+        "start_latlng": [
+            35.90268,
+            -78.950102
+        ],
+        "end_latlng": [
+            35.900577,
+            -78.950491
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 76,
+        "athlete_pr_effort": {
+            "id": 3273002524936532804,
+            "activity_id": 12478620815,
+            "elapsed_time": 76,
+            "distance": 236.7,
+            "start_date": "2024-09-22T16:46:57Z",
+            "start_date_local": "2024-09-22T12:46:57Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:43Z"
+    },
+    {
+        "id": 14770558,
+        "resource_state": 2,
+        "name": "Entire ATT South to North",
+        "activity_type": "Run",
+        "distance": 35415.3,
+        "average_grade": 0.1,
+        "maximum_grade": 10.3,
+        "elevation_high": 116.9,
+        "elevation_low": 70.3,
+        "start_latlng": [
+            35.716323,
+            -78.94243
+        ],
+        "end_latlng": [
+            35.990809,
+            -78.906079
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:38:48Z"
+    },
+    {
+        "id": 15292342,
+        "resource_state": 2,
+        "name": "Start point to Enterprise",
+        "activity_type": "Run",
+        "distance": 796.3,
+        "average_grade": 0.2,
+        "maximum_grade": 5.6,
+        "elevation_high": 223.6,
+        "elevation_low": 219.2,
+        "start_latlng": [
+            35.990514,
+            -78.906324
+        ],
+        "end_latlng": [
+            35.983795,
+            -78.908911
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 267,
+        "athlete_pr_effort": {
+            "id": 3202024180630417018,
+            "activity_id": 10933236153,
+            "elapsed_time": 267,
+            "distance": 796.3,
+            "start_date": "2024-03-10T19:03:41Z",
+            "start_date_local": "2024-03-10T15:03:41Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:05Z"
+    },
+    {
+        "id": 15292347,
+        "resource_state": 2,
+        "name": "Enterprise to Roxboro",
+        "activity_type": "Run",
+        "distance": 912.7,
+        "average_grade": -0.6,
+        "maximum_grade": 3.5,
+        "elevation_high": 223.8,
+        "elevation_low": 218.4,
+        "start_latlng": [
+            35.983712,
+            -78.90887
+        ],
+        "end_latlng": [
+            35.975568,
+            -78.90871
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 303,
+        "athlete_pr_effort": {
+            "id": 3273002524936063812,
+            "activity_id": 12478620815,
+            "elapsed_time": 303,
+            "distance": 912.7,
+            "start_date": "2024-09-22T15:23:07Z",
+            "start_date_local": "2024-09-22T11:23:07Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:05Z"
+    },
+    {
+        "id": 15292353,
+        "resource_state": 2,
+        "name": "Roxboro to Fayetteville",
+        "activity_type": "Run",
+        "distance": 1363.4,
+        "average_grade": -0.6,
+        "maximum_grade": 4.7,
+        "elevation_high": 224.4,
+        "elevation_low": 209.8,
+        "start_latlng": [
+            35.975682,
+            -78.908711
+        ],
+        "end_latlng": [
+            35.964001,
+            -78.907068
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 474,
+        "athlete_pr_effort": {
+            "id": 3273002524937705284,
+            "activity_id": 12478620815,
+            "elapsed_time": 474,
+            "distance": 1363.4,
+            "start_date": "2024-09-22T15:28:09Z",
+            "start_date_local": "2024-09-22T11:28:09Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:15Z"
+    },
+    {
+        "id": 15483386,
+        "resource_state": 2,
+        "name": "I40 bridge South",
+        "activity_type": "Run",
+        "distance": 568.0,
+        "average_grade": -0.8,
+        "maximum_grade": 4.3,
+        "elevation_high": 128.4,
+        "elevation_low": 121.4,
+        "start_latlng": [
+            35.909664,
+            -78.941742
+        ],
+        "end_latlng": [
+            35.906388,
+            -78.944853
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 198,
+        "athlete_pr_effort": {
+            "id": 3273002524937677636,
+            "activity_id": 12478620815,
+            "elapsed_time": 198,
+            "distance": 568.0,
+            "start_date": "2024-09-22T16:39:02Z",
+            "start_date_local": "2024-09-22T12:39:02Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:37Z"
+    },
+    {
+        "id": 16090704,
+        "resource_state": 2,
+        "name": "ATT Back",
+        "activity_type": "Run",
+        "distance": 3099.0,
+        "average_grade": 0.3,
+        "maximum_grade": 6.0,
+        "elevation_high": 110.0,
+        "elevation_low": 84.0,
+        "start_latlng": [
+            35.844951,
+            -78.925999
+        ],
+        "end_latlng": [
+            35.817684,
+            -78.927932
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1264,
+        "athlete_pr_effort": {
+            "id": 3273002524937497412,
+            "activity_id": 12478620815,
+            "elapsed_time": 1264,
+            "distance": 3099.0,
+            "start_date": "2024-09-22T17:35:36Z",
+            "start_date_local": "2024-09-22T13:35:36Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:12Z"
+    },
+    {
+        "id": 16149323,
+        "resource_state": 2,
+        "name": "Cook to Woodcroft",
+        "activity_type": "Run",
+        "distance": 799.6,
+        "average_grade": -0.1,
+        "maximum_grade": 2.0,
+        "elevation_high": 109.2,
+        "elevation_low": 107.0,
+        "start_latlng": [
+            35.929081,
+            -78.921259
+        ],
+        "end_latlng": [
+            35.923961,
+            -78.927278
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 261,
+        "athlete_pr_effort": {
+            "id": 3273002524938166084,
+            "activity_id": 12478620815,
+            "elapsed_time": 261,
+            "distance": 799.6,
+            "start_date": "2024-09-22T16:07:46Z",
+            "start_date_local": "2024-09-22T12:07:46Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:27Z"
+    },
+    {
+        "id": 16353341,
+        "resource_state": 2,
+        "name": "Fayettville St downhill",
+        "activity_type": "Run",
+        "distance": 513.9,
+        "average_grade": -1.4,
+        "maximum_grade": 0.4,
+        "elevation_high": 109.2,
+        "elevation_low": 101.2,
+        "start_latlng": [
+            35.922755,
+            -78.928751
+        ],
+        "end_latlng": [
+            35.919778,
+            -78.932923
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 170,
+        "athlete_pr_effort": {
+            "id": 3267957944733278734,
+            "activity_id": 12361863243,
+            "elapsed_time": 170,
+            "distance": 513.9,
+            "start_date": "2024-09-08T18:14:48Z",
+            "start_date_local": "2024-09-08T14:14:48Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:30Z"
+    },
+    {
+        "id": 16353369,
+        "resource_state": 2,
+        "name": "Pearson to Juliette",
+        "activity_type": "Run",
+        "distance": 374.1,
+        "average_grade": -1.2,
+        "maximum_grade": 1.5,
+        "elevation_high": 119.0,
+        "elevation_low": 114.0,
+        "start_latlng": [
+            35.934278,
+            -78.913792
+        ],
+        "end_latlng": [
+            35.932447,
+            -78.91723
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 122,
+        "athlete_pr_effort": {
+            "id": 3273002524936246084,
+            "activity_id": 12478620815,
+            "elapsed_time": 122,
+            "distance": 374.1,
+            "start_date": "2024-09-22T16:02:43Z",
+            "start_date_local": "2024-09-22T12:02:43Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:26Z"
+    },
+    {
+        "id": 16353377,
+        "resource_state": 2,
+        "name": "Juliette to Cook",
+        "activity_type": "Run",
+        "distance": 459.7,
+        "average_grade": -0.6,
+        "maximum_grade": 1.2,
+        "elevation_high": 114.2,
+        "elevation_low": 110.6,
+        "start_latlng": [
+            35.932212,
+            -78.917672
+        ],
+        "end_latlng": [
+            35.92935,
+            -78.921273
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 150,
+        "athlete_pr_effort": {
+            "id": 3273002524939866948,
+            "activity_id": 12478620815,
+            "elapsed_time": 150,
+            "distance": 459.7,
+            "start_date": "2024-09-22T16:05:05Z",
+            "start_date_local": "2024-09-22T12:05:05Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:26Z"
+    },
+    {
+        "id": 17446972,
+        "resource_state": 2,
+        "name": "Mile 9 ATT return",
+        "activity_type": "Run",
+        "distance": 1698.2,
+        "average_grade": -0.8,
+        "maximum_grade": 0.5,
+        "elevation_high": 90.1,
+        "elevation_low": 76.0,
+        "start_latlng": [
+            35.845398,
+            -78.925862
+        ],
+        "end_latlng": [
+            35.830525,
+            -78.929256
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 781,
+        "athlete_pr_effort": {
+            "id": 3273002524939468612,
+            "activity_id": 12478620815,
+            "elapsed_time": 781,
+            "distance": 1698.2,
+            "start_date": "2024-09-22T17:35:18Z",
+            "start_date_local": "2024-09-22T13:35:18Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:12Z"
+    },
+    {
+        "id": 17447092,
+        "resource_state": 2,
+        "name": "ATT Return Mile 9",
+        "activity_type": "Run",
+        "distance": 1340.5,
+        "average_grade": -1.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 90.1,
+        "elevation_low": 76.2,
+        "start_latlng": [
+            35.842462,
+            -78.926303
+        ],
+        "end_latlng": [
+            35.830737,
+            -78.929182
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 655,
+        "athlete_pr_effort": {
+            "id": 3273002524936207172,
+            "activity_id": 12478620815,
+            "elapsed_time": 655,
+            "distance": 1340.5,
+            "start_date": "2024-09-22T17:37:16Z",
+            "start_date_local": "2024-09-22T13:37:16Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:23Z"
+    },
+    {
+        "id": 17447120,
+        "resource_state": 2,
+        "name": "ATT Return Mile 9-ish",
+        "activity_type": "Run",
+        "distance": 557.0,
+        "average_grade": -0.4,
+        "maximum_grade": 0.0,
+        "elevation_high": 90.1,
+        "elevation_low": 87.8,
+        "start_latlng": [
+            35.842462,
+            -78.926303
+        ],
+        "end_latlng": [
+            35.837571,
+            -78.927304
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 184,
+        "athlete_pr_effort": {
+            "id": 3273002524935822148,
+            "activity_id": 12478620815,
+            "elapsed_time": 184,
+            "distance": 557.0,
+            "start_date": "2024-09-22T17:37:16Z",
+            "start_date_local": "2024-09-22T13:37:16Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:14Z"
+    },
+    {
+        "id": 17489290,
+        "resource_state": 2,
+        "name": "Fartlek (up) sign to sign",
+        "activity_type": "Run",
+        "distance": 818.5,
+        "average_grade": 0.9,
+        "maximum_grade": 5.8,
+        "elevation_high": 106.0,
+        "elevation_low": 96.0,
+        "start_latlng": [
+            35.830699,
+            -78.929149
+        ],
+        "end_latlng": [
+            35.82347,
+            -78.929157
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 280,
+        "athlete_pr_effort": {
+            "id": 3273002524936511300,
+            "activity_id": 12478620815,
+            "elapsed_time": 280,
+            "distance": 818.5,
+            "start_date": "2024-09-22T17:48:14Z",
+            "start_date_local": "2024-09-22T13:48:14Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:17Z"
+    },
+    {
+        "id": 17822917,
+        "resource_state": 2,
+        "name": "Kick it in",
+        "activity_type": "Run",
+        "distance": 1637.0,
+        "average_grade": -0.4,
+        "maximum_grade": 3.6,
+        "elevation_high": 104.1,
+        "elevation_low": 95.8,
+        "start_latlng": [
+            35.802135,
+            -78.927036
+        ],
+        "end_latlng": [
+            35.816196,
+            -78.928025
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:37:37Z"
+    },
+    {
+        "id": 19207890,
+        "resource_state": 2,
+        "name": "Seven from the parkway",
+        "activity_type": "Run",
+        "distance": 11273.7,
+        "average_grade": 0.1,
+        "maximum_grade": 3.4,
+        "elevation_high": 125.8,
+        "elevation_low": 105.2,
+        "start_latlng": [
+            35.903087,
+            -78.950155
+        ],
+        "end_latlng": [
+            35.812467,
+            -78.928794
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 4552,
+        "athlete_pr_effort": {
+            "id": 3273002524939352900,
+            "activity_id": 12478620815,
+            "elapsed_time": 4552,
+            "distance": 11273.7,
+            "start_date": "2024-09-22T16:46:41Z",
+            "start_date_local": "2024-09-22T12:46:41Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:16Z"
+    },
+    {
+        "id": 19584452,
+        "resource_state": 2,
+        "name": "ATT 10 Miles South from South Point Mall",
+        "activity_type": "Run",
+        "distance": 16085.4,
+        "average_grade": 0.1,
+        "maximum_grade": 4.8,
+        "elevation_high": 113.7,
+        "elevation_low": 72.4,
+        "start_latlng": [
+            35.911082,
+            -78.940522
+        ],
+        "end_latlng": [
+            35.78694,
+            -78.92192
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 6197,
+        "athlete_pr_effort": {
+            "id": 3273002524937803588,
+            "activity_id": 12478620815,
+            "elapsed_time": 6197,
+            "distance": 16085.4,
+            "start_date": "2024-09-22T16:37:46Z",
+            "start_date_local": "2024-09-22T12:37:46Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:14Z"
+    },
+    {
+        "id": 19672559,
+        "resource_state": 2,
+        "name": "MPkway to White Oak sprint",
+        "activity_type": "Run",
+        "distance": 758.7,
+        "average_grade": -0.7,
+        "maximum_grade": 0.0,
+        "elevation_high": 113.1,
+        "elevation_low": 107.9,
+        "start_latlng": [
+            35.79371,
+            -78.922183
+        ],
+        "end_latlng": [
+            35.78696,
+            -78.921931
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 250,
+        "athlete_pr_effort": {
+            "id": 3273002524936494916,
+            "activity_id": 12478620815,
+            "elapsed_time": 250,
+            "distance": 758.7,
+            "start_date": "2024-09-22T18:16:53Z",
+            "start_date_local": "2024-09-22T14:16:53Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:32Z"
+    },
+    {
+        "id": 19833936,
+        "resource_state": 2,
+        "name": "ATT - Green Level W to White Oak",
+        "activity_type": "Run",
+        "distance": 1184.8,
+        "average_grade": 1.4,
+        "maximum_grade": 2.3,
+        "elevation_high": 109.0,
+        "elevation_low": 92.2,
+        "start_latlng": [
+            35.773727,
+            -78.923871
+        ],
+        "end_latlng": [
+            35.784126,
+            -78.922662
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:37:48Z"
+    },
+    {
+        "id": 19992887,
+        "resource_state": 2,
+        "name": "Last Mile to White Oak Parking",
+        "activity_type": "Run",
+        "distance": 1654.3,
+        "average_grade": 0.2,
+        "maximum_grade": 3.1,
+        "elevation_high": 113.7,
+        "elevation_low": 105.3,
+        "start_latlng": [
+            35.80122,
+            -78.925953
+        ],
+        "end_latlng": [
+            35.786976,
+            -78.922021
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 583,
+        "athlete_pr_effort": {
+            "id": 3273002524938472260,
+            "activity_id": 12478620815,
+            "elapsed_time": 583,
+            "distance": 1654.3,
+            "start_date": "2024-09-22T18:11:31Z",
+            "start_date_local": "2024-09-22T14:11:31Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:19Z"
+    },
+    {
+        "id": 20046232,
+        "resource_state": 2,
+        "name": "ATT finish",
+        "activity_type": "Run",
+        "distance": 2618.5,
+        "average_grade": 0.3,
+        "maximum_grade": 5.1,
+        "elevation_high": 96.2,
+        "elevation_low": 74.1,
+        "start_latlng": [
+            35.840269,
+            -78.926553
+        ],
+        "end_latlng": [
+            35.817183,
+            -78.927907
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1111,
+        "athlete_pr_effort": {
+            "id": 3273002524939045700,
+            "activity_id": 12478620815,
+            "elapsed_time": 1111,
+            "distance": 2618.5,
+            "start_date": "2024-09-22T17:38:36Z",
+            "start_date_local": "2024-09-22T13:38:36Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:23Z"
+    },
+    {
+        "id": 20725879,
+        "resource_state": 2,
+        "name": "ATT South - Fayetteville to Scott King",
+        "activity_type": "Run",
+        "distance": 1801.8,
+        "average_grade": 0.0,
+        "maximum_grade": 10.0,
+        "elevation_high": 81.8,
+        "elevation_low": 77.2,
+        "start_latlng": [
+            35.888856,
+            -78.943638
+        ],
+        "end_latlng": [
+            35.875454,
+            -78.934093
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": true,
+        "starred": true,
+        "pr_time": 853,
+        "athlete_pr_effort": {
+            "id": 3273002524938180420,
+            "activity_id": 12478620815,
+            "elapsed_time": 853,
+            "distance": 1801.8,
+            "start_date": "2024-09-22T16:59:30Z",
+            "start_date_local": "2024-09-22T12:59:30Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:17Z"
+    },
+    {
+        "id": 22067643,
+        "resource_state": 2,
+        "name": "Uphill Battle",
+        "activity_type": "Run",
+        "distance": 1020.3,
+        "average_grade": 0.9,
+        "maximum_grade": 2.6,
+        "elevation_high": 90.5,
+        "elevation_low": 80.5,
+        "start_latlng": [
+            35.764418,
+            -78.921908
+        ],
+        "end_latlng": [
+            35.773096,
+            -78.923915
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Apex",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "starred_date": "2025-01-15T01:37:57Z"
+    },
+    {
+        "id": 23536300,
+        "resource_state": 2,
+        "name": "DSDP Mile",
+        "activity_type": "Run",
+        "distance": 1631.6,
+        "average_grade": -1.3,
+        "maximum_grade": 1.1,
+        "elevation_high": 93.7,
+        "elevation_low": 72.4,
+        "start_latlng": [
+            35.87512,
+            -78.933956
+        ],
+        "end_latlng": [
+            35.861627,
+            -78.928064
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 553,
+        "athlete_pr_effort": {
+            "id": 3273002524939823940,
+            "activity_id": 12478620815,
+            "elapsed_time": 553,
+            "distance": 1631.6,
+            "start_date": "2024-09-22T17:14:00Z",
+            "start_date_local": "2024-09-22T13:14:00Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:02Z"
+    },
+    {
+        "id": 24685870,
+        "resource_state": 2,
+        "name": "O'Kelly Chapel to Pittard Sears",
+        "activity_type": "Run",
+        "distance": 1291.6,
+        "average_grade": -0.3,
+        "maximum_grade": 2.9,
+        "elevation_high": 175.2,
+        "elevation_low": 168.6,
+        "start_latlng": [
+            35.846949,
+            -78.925814
+        ],
+        "end_latlng": [
+            35.83554,
+            -78.92806
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 444,
+        "athlete_pr_effort": {
+            "id": 3273002524939799364,
+            "activity_id": 12478620815,
+            "elapsed_time": 444,
+            "distance": 1291.6,
+            "start_date": "2024-09-22T17:34:17Z",
+            "start_date_local": "2024-09-22T13:34:17Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:11Z"
+    },
+    {
+        "id": 24957995,
+        "resource_state": 2,
+        "name": "Golf crs to Beckingham Lp",
+        "activity_type": "Run",
+        "distance": 1632.7,
+        "average_grade": -0.8,
+        "maximum_grade": 0.8,
+        "elevation_high": 90.7,
+        "elevation_low": 78.1,
+        "start_latlng": [
+            35.844441,
+            -78.925941
+        ],
+        "end_latlng": [
+            35.830072,
+            -78.929296
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 759,
+        "athlete_pr_effort": {
+            "id": 3273002524936116036,
+            "activity_id": 12478620815,
+            "elapsed_time": 759,
+            "distance": 1632.7,
+            "start_date": "2024-09-22T17:35:56Z",
+            "start_date_local": "2024-09-22T13:35:56Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:22Z"
+    },
+    {
+        "id": 27241121,
+        "resource_state": 2,
+        "name": "Bombing Down from Scott King 1.5mi ",
+        "activity_type": "Run",
+        "distance": 2418.8,
+        "average_grade": -0.4,
+        "maximum_grade": 5.9,
+        "elevation_high": 103.4,
+        "elevation_low": 85.0,
+        "start_latlng": [
+            35.874948,
+            -78.933929
+        ],
+        "end_latlng": [
+            35.854873,
+            -78.9249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 862,
+        "athlete_pr_effort": {
+            "id": 3273002524939530052,
+            "activity_id": 12478620815,
+            "elapsed_time": 862,
+            "distance": 2418.8,
+            "start_date": "2024-09-22T17:14:08Z",
+            "start_date_local": "2024-09-22T13:14:08Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:08Z"
+    },
+    {
+        "id": 27429990,
+        "resource_state": 2,
+        "name": "5k from the pullup bar, ATT",
+        "activity_type": "Run",
+        "distance": 4992.9,
+        "average_grade": -0.4,
+        "maximum_grade": 8.2,
+        "elevation_high": 102.6,
+        "elevation_low": 79.8,
+        "start_latlng": [
+            35.874436,
+            -78.933885
+        ],
+        "end_latlng": [
+            35.831491,
+            -78.929169
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1996,
+        "athlete_pr_effort": {
+            "id": 3273002524936117060,
+            "activity_id": 12478620815,
+            "elapsed_time": 1996,
+            "distance": 4992.9,
+            "start_date": "2024-09-22T17:14:27Z",
+            "start_date_local": "2024-09-22T13:14:27Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:09Z"
+    },
+    {
+        "id": 28666005,
+        "resource_state": 2,
+        "name": "CGTC 800 from Scott King Rd",
+        "activity_type": "Run",
+        "distance": 406.6,
+        "average_grade": -1.5,
+        "maximum_grade": 8.4,
+        "elevation_high": 110.0,
+        "elevation_low": 104.1,
+        "start_latlng": [
+            35.875183,
+            -78.933935
+        ],
+        "end_latlng": [
+            35.87143,
+            -78.933763
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 134,
+        "athlete_pr_effort": {
+            "id": 3273002524938208068,
+            "activity_id": 12478620815,
+            "elapsed_time": 134,
+            "distance": 406.6,
+            "start_date": "2024-09-22T17:14:00Z",
+            "start_date_local": "2024-09-22T13:14:00Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:05Z"
+    },
+    {
+        "id": 30405411,
+        "resource_state": 2,
+        "name": "ATT South 10K+ Sign to Sign",
+        "activity_type": "Run",
+        "distance": 10167.8,
+        "average_grade": 0.2,
+        "maximum_grade": 9.5,
+        "elevation_high": 118.0,
+        "elevation_low": 77.4,
+        "start_latlng": [
+            35.875118,
+            -78.933933
+        ],
+        "end_latlng": [
+            35.78719,
+            -78.922003
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 4015,
+        "athlete_pr_effort": {
+            "id": 3273002524937804612,
+            "activity_id": 12478620815,
+            "elapsed_time": 4015,
+            "distance": 10167.8,
+            "start_date": "2024-09-22T17:14:00Z",
+            "start_date_local": "2024-09-22T13:14:00Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:34:08Z"
+    },
+    {
+        "id": 33500245,
+        "resource_state": 2,
+        "name": "ATT flat mile S (Renaissance to Strangeford)",
+        "activity_type": "Run",
+        "distance": 1601.7,
+        "average_grade": 0.0,
+        "maximum_grade": 1.9,
+        "elevation_high": 79.6,
+        "elevation_low": 77.1,
+        "start_latlng": [
+            35.902453,
+            -78.950075
+        ],
+        "end_latlng": [
+            35.89105,
+            -78.948464
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 565,
+        "athlete_pr_effort": {
+            "id": 3273002524939561796,
+            "activity_id": 12478620815,
+            "elapsed_time": 565,
+            "distance": 1601.7,
+            "start_date": "2024-09-22T16:47:05Z",
+            "start_date_local": "2024-09-22T12:47:05Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:46Z"
+    },
+    {
+        "id": 33561246,
+        "resource_state": 2,
+        "name": "RK Final Crankdown",
+        "activity_type": "Run",
+        "distance": 1154.1,
+        "average_grade": 0.1,
+        "maximum_grade": 2.9,
+        "elevation_high": 105.4,
+        "elevation_low": 101.2,
+        "start_latlng": [
+            35.990242,
+            -78.906412
+        ],
+        "end_latlng": [
+            35.98036,
+            -78.908579
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 389,
+        "athlete_pr_effort": {
+            "id": 3202024180628340346,
+            "activity_id": 10933236153,
+            "elapsed_time": 389,
+            "distance": 1154.1,
+            "start_date": "2024-03-10T19:03:53Z",
+            "start_date_local": "2024-03-10T15:03:53Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:13Z"
+    },
+    {
+        "id": 33675194,
+        "resource_state": 2,
+        "name": "ATT - Scott King to O'Kelly Chapel",
+        "activity_type": "Run",
+        "distance": 3211.1,
+        "average_grade": -0.2,
+        "maximum_grade": 3.5,
+        "elevation_high": 83.8,
+        "elevation_low": 65.8,
+        "start_latlng": [
+            35.874415,
+            -78.933914
+        ],
+        "end_latlng": [
+            35.847317,
+            -78.925734
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "North Carolina",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1171,
+        "athlete_pr_effort": {
+            "id": 3273002524937822020,
+            "activity_id": 12478620815,
+            "elapsed_time": 1171,
+            "distance": 3211.1,
+            "start_date": "2024-09-22T17:14:27Z",
+            "start_date_local": "2024-09-22T13:14:27Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:21Z"
+    },
+    {
+        "id": 33675478,
+        "resource_state": 2,
+        "name": "ATT - O'Kelly Chapel to New Hope Church",
+        "activity_type": "Run",
+        "distance": 3337.2,
+        "average_grade": 0.2,
+        "maximum_grade": 1.9,
+        "elevation_high": 96.8,
+        "elevation_low": 79.9,
+        "start_latlng": [
+            35.846809,
+            -78.925839
+        ],
+        "end_latlng": [
+            35.817229,
+            -78.927991
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "North Carolina",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1352,
+        "athlete_pr_effort": {
+            "id": 3273002524938619716,
+            "activity_id": 12478620815,
+            "elapsed_time": 1352,
+            "distance": 3337.2,
+            "start_date": "2024-09-22T17:34:26Z",
+            "start_date_local": "2024-09-22T13:34:26Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:21Z"
+    },
+    {
+        "id": 35467290,
+        "resource_state": 2,
+        "name": "dawgs to dino",
+        "activity_type": "Run",
+        "distance": 804.8,
+        "average_grade": 0.1,
+        "maximum_grade": 17.0,
+        "elevation_high": 103.2,
+        "elevation_low": 94.8,
+        "start_latlng": [
+            36.022953,
+            -78.898355
+        ],
+        "end_latlng": [
+            36.028389,
+            -78.902626
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 220,
+        "athlete_pr_effort": {
+            "id": 3169686053142968246,
+            "activity_id": 10369139269,
+            "elapsed_time": 220,
+            "distance": 804.8,
+            "start_date": "2023-12-12T15:37:46Z",
+            "start_date_local": "2023-12-12T10:37:46Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:22:56Z"
+    },
+    {
+        "id": 36784646,
+        "resource_state": 2,
+        "name": "TRR Leg 6",
+        "activity_type": "Run",
+        "distance": 8588.4,
+        "average_grade": -0.2,
+        "maximum_grade": 4.5,
+        "elevation_high": 109.4,
+        "elevation_low": 77.4,
+        "start_latlng": [
+            35.929413,
+            -78.921555
+        ],
+        "end_latlng": [
+            35.875193,
+            -78.933921
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 3974,
+        "athlete_pr_effort": {
+            "id": 3273002524937133892,
+            "activity_id": 12478620815,
+            "elapsed_time": 3974,
+            "distance": 8588.4,
+            "start_date": "2024-09-22T16:07:42Z",
+            "start_date_local": "2024-09-22T12:07:42Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:33:27Z"
+    },
+    {
+        "id": 37115029,
+        "resource_state": 2,
+        "name": "ATT South - Massey Chapel to Scott King",
+        "activity_type": "Run",
+        "distance": 3143.1,
+        "average_grade": 0.5,
+        "maximum_grade": 4.7,
+        "elevation_high": 91.0,
+        "elevation_low": 73.2,
+        "start_latlng": [
+            35.894508,
+            -78.953437
+        ],
+        "end_latlng": [
+            35.875397,
+            -78.933898
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "North Carolina",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 1244,
+        "athlete_pr_effort": {
+            "id": 3273002524936062788,
+            "activity_id": 12478620815,
+            "elapsed_time": 1244,
+            "distance": 3143.1,
+            "start_date": "2024-09-22T16:53:03Z",
+            "start_date_local": "2024-09-22T12:53:03Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:35:16Z"
+    },
+    {
+        "id": 37895473,
+        "resource_state": 2,
+        "name": "ECT Club to Markham",
+        "activity_type": "Run",
+        "distance": 804.8,
+        "average_grade": -0.1,
+        "maximum_grade": 2.8,
+        "elevation_high": 118.6,
+        "elevation_low": 116.4,
+        "start_latlng": [
+            36.016569,
+            -78.899803
+        ],
+        "end_latlng": [
+            36.010025,
+            -78.902745
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": true,
+        "pr_time": 237,
+        "athlete_pr_effort": {
+            "id": 3307429714257832696,
+            "activity_id": 13195623757,
+            "elapsed_time": 237,
+            "distance": 804.8,
+            "start_date": "2024-12-26T17:57:02Z",
+            "start_date_local": "2024-12-26T12:57:02Z",
+            "is_kom": false
+        },
+        "starred_date": "2025-01-15T01:31:47Z"
+    }
+]}
