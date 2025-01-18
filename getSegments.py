@@ -5,7 +5,7 @@ write_file = open("segments.json", "a")
 
 with open('segmentsToCheck.json') as f:
     segments = json.load(f)['segments']
-    headers =  {"Content-Type": "application/json", "Authorization": "Bearer 61967b1c4c076129d3f2e276058a02c047139603"}
+    headers =  {"Content-Type": "application/json", "Authorization": "Bearer 9b733afbfa6fb3a8dd6e125acfca844bbdaec856"}
     url = "https://www.strava.com/api/v3/segments/{id}"
     write_data = {"segments": []}
     
